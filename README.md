@@ -7,3 +7,6 @@ I am working in a bank. The CEO of my bank is focusing on customer retention as 
 Business metric:
 Customer Turnover rate = 
 (Customers lost at the end of a given period / Number of customers at the start) * 100 %
+
+Analytics:
+[Dataset Source](https://www.kaggle.com/adammaus/predicting-churn-for-bank-customers)
