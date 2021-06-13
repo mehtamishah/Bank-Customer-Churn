@@ -12,4 +12,4 @@ Analytics:
 Dataset [Source](https://www.kaggle.com/adammaus/predicting-churn-for-bank-customers)
 
 Process:
-Divide the dataset into 4 parts. Use dataset 1 for analytics.
+Taking 25% of the dataset for analytics. Here's the [code](https://github.com/mehtamishah/Bank-Customer-Churn/blob/main/Dividing_the_dataset.ipynb).
