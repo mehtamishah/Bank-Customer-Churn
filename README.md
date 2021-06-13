@@ -2,7 +2,7 @@
 Addressing the issue of customer churn in a bank
 
 Business Problem:
-It is always more difficult and expensive to acquire a new customer than it is to retain a current paying customer. The CEO of the bank is focusing on customer retention as a part of the business strategy. He has asked me to look into customer churn and present my findings to senior leadership.
+The CEO of a bank has chosen customer retention as a part of the business strategy for the next quarter. He has asked you to present a business case for a project to reduce customer attrition by the end of the week.
 
 Business metric:
 Customer Turnover rate = 
