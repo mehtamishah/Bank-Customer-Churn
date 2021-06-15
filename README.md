@@ -17,11 +17,11 @@ A majority of education, even today, tells you what to do instead of teaching yo
 
 What tools you use or steps you take only make sense when the context is defined. The context can that be of the business problem, of the market, of the stakeholders, of data availability and much, much more. Only when you define the context does any of the decisions that follow make sense. <br>
 
-So let's get to it!
+So let's get to it! <br>
 
 My Process: <br><br>
 
 Step 1. Analytics
-Slicing 25% of the dataset for analytics. Here's the [code](https://github.com/mehtamishah/Bank-Customer-Churn/blob/main/Dividing_the_dataset.ipynb).
-Summarizing data for self
+Slicing 25% of the dataset for analytics. Here's the [code](https://github.com/mehtamishah/Bank-Customer-Churn/blob/main/Dividing_the_dataset.ipynb). <br>
+Summarizing data for self <br>
 Summarizing data for stakeholders and inspiring the CEO
