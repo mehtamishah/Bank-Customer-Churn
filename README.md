@@ -1,6 +1,6 @@
-# Improving Bank Customer Retention Project
+# Project: Improving Bank Customer Retention
 Addressing the issue of customer churn in a bank <br>
-*Business problem is fictitious and has been designed by me to help you build business acumen*
+**Business problem is fictitious and has been designed by me to help you build business acumen*
 
 Business Problem: <br>
 The CEO of a bank is focusing on customer retention as a part of the business strategy for the next financial year. He has asked you to present a business case for a project to reduce customer attrition by the end of the week. <br>
