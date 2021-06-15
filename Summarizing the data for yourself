@@ -1,16 +1,16 @@
 Summarize data for self:
 
 How much churn there is?
--> Percentage of churn
+* Percentage of churn
 
 Does churn vary by?
--> Number of years customer has been with the bank
--> Credit score of customer
--> Number of bank products the customer uses
--> Whether the customer is an active member
--> Whether the customer owns a credit card with the bank
--> Customer bank balance
--> Country of customer (This bank offers products and services in 3 countries)
--> Gender of customer
--> Age of customer
--> Estimated salary of customer
+* Number of years customer has been with the bank
+* Credit score of customer
+* Number of bank products the customer uses
+* Whether the customer is an active member
+* Whether the customer owns a credit card with the bank
+* Customer bank balance
+* Country of customer (This bank offers products and services in 3 countries)
+* Gender of customer
+* Age of customer
+* Estimated salary of customer
