@@ -21,5 +21,5 @@ My Process: <br>
 
 Step 1. Analytics <br>
 Slicing 25% of the dataset for analytics. Here's the [code](https://github.com/mehtamishah/Bank-Customer-Churn/blob/main/Dividing_the_dataset.ipynb). <br>
-Summarizing data for self <br>
+[Summarizing data for self](https://github.com/mehtamishah/Bank-Customer-Retention/blob/main/Summarizing%20the%20data%20for%20yourself) <br> 
 Summarizing data for stakeholders and inspiring the CEO
