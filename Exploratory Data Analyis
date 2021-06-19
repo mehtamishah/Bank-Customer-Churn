@@ -1,9 +1,8 @@
-Summarize data for self:
-
+DISTRIBUTION
 How much churn there is?
 * Percentage of churn
 
-Does churn vary by?
+Percentage of churn with respect to...
 * Number of years customer has been with the bank
 * Credit score of customer
 * Number of bank products the customer uses
@@ -14,3 +13,11 @@ Does churn vary by?
 * Gender of customer
 * Age of customer
 * Estimated salary of customer
+
+Questions:
+Does reaching out to a customer who is likely to churn improve customer retention?
+
+Stakeholders:
+Sales Customer success
+CEO
+Manager
