@@ -4,7 +4,7 @@
 Decision Maker: CEO
 
 Business Problem: <br>
-The CEO of a bank is focusing on customer retention as a part of the business strategy for the next financial year. He has asked you to present a business case for a project to reduce customer attrition by the end of the week. <br>
+The CEO of a bank is focusing on customer retention as a part of the business strategy for the next financial year. He has asked you to dig into your data and summarize your findings and to present a business case for a project to reduce customer attrition in 2 weeks. <br>
 This is all the data that the bank has : [Dataset](https://www.kaggle.com/adammaus/predicting-churn-for-bank-customers)<br>
 
 My Process: <br>
