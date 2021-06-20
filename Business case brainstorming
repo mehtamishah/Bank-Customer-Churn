@@ -2,3 +2,9 @@ Problem: Customer Attrition
 
 Solution 1: Predict Churn. Customer Retention costs less than customer acquisition. Measure effectiveness of customer retention tactic. Estimating savings. 
 Solution 2: 
+
+Solution 1: Survey customers who have already left. It is very unlikely to get a customer back once they have made the choice to leave.
+This tactic will not improve customer retention but it can help us understand why customers left.
+
+ML: For each persion choose between customer retention tactic.
+Stat: Choose a customer retention tactic
